@@ -1,6 +1,10 @@
-### <h1>Hi there 👋</h1>
+### <h1 style="
+font-family: 'Brush Script MT', cursive';
+color:purple"
+>
+Hi there 👋</h1>
 
-<h3><img src="https://fragrancebuddy.com/cdn/shop/files/GreenApple.png?v=1702599372)">I like applesauce</h3>
+
 
 <!--
 **catietdcollins/catietdcollins** is a ✨ _spe"cial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
