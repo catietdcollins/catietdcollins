@@ -1,6 +1,6 @@
 
 # Hi there 👋
-## <h2><img src="https://scontent.fmci1-3.fna.fbcdn.net/v/t39.30808-6/426636531_1881579145591204_6355459838283051323_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=4WDD61fI27gAX-3-Yca&_nc_ht=scontent.fmci1-3.fna&oh=00_AfCn6o3Mt5PDoKNUlnN0Lbfys1tvOFPRoHGHKmO0Fc8qHQ&oe=65DA2464"><br><br>Im Catie</h2>
+## <h2><img src="https://scontent.fmci1-3.fna.fbcdn.net/v/t39.30808-6/426636531_1881579145591204_6355459838283051323_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=4WDD61fI27gAX-3-Yca&_nc_ht=scontent.fmci1-3.fna&oh=00_AfCn6o3Mt5PDoKNUlnN0Lbfys1tvOFPRoHGHKmO0Fc8qHQ&oe=65DA2464"height="50" width="50" border: "2px solid purple"><br><br>Im Catie</h2>
 
 
 <!--
