@@ -1,9 +1,9 @@
 ### <h1>Hi there 👋</h1>
 
-<h3>I like applesauce</h3>
+<h3><img src="https://fragrancebuddy.com/cdn/shop/files/GreenApple.png?v=1702599372)">I like applesauce</h3>
 
 <!--
-**catietdcollins/catietdcollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**catietdcollins/catietdcollins** is a ✨ _spe"cial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
