@@ -2,7 +2,7 @@
 # Hi there 👋
 <h2><img src="https://scontent.fmci1-3.fna.fbcdn.net/v/t39.30808-6/426636531_1881579145591204_6355459838283051323_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=4WDD61fI27gAX-3-Yca&_nc_ht=scontent.fmci1-3.fna&oh=00_AfCn6o3Mt5PDoKNUlnN0Lbfys1tvOFPRoHGHKmO0Fc8qHQ&oe=65DA2464" height="150" width="150"><br><br>Im Catie</h2>
 <ul list-image-style="https://familymedicine.uw.edu/wp-content/uploads/2021/10/13-136378_white-star-png-transparent-background-sparkle.png" height="10" width="10">
-<li><img src ="https://cdn.vectorstock.com/i/1000x1000/18/52/glowing-star-on-transparent-background-vector-11571852.webp"> <b>Seeking a Dynamic Opportunity:</li></b> 
+<li> <b>Seeking a Dynamic Opportunity:</li></b> 
 I have a strong passion for technology and a hunger for growth. I'm actively seeking opportunities to join a dynamic company where I can apply my knowledge and skills, while also learning and growing along the way. If you know of any exciting openings or would like to connect, don't hesitate to reach out!<br><br>
 - 🌱 <b>Continuous Learning and Certifications:</b>
 I believe in the power of continuous learning and staying up-to-date with the latest advancements. Currently, I am certified in multiple tech-related fields. However, my learning journey doesn't stop there — I'm always striving to expand my knowledge and add more certifications and hands-on projects to my repertoire.<br><br>
