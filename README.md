@@ -1,5 +1,5 @@
 
-##<h1 style="color: purple;">Hi there 👋</h1>
+# Hi there 👋
 
 <!--
 **catietdcollins/catietdcollins** is a ✨ _spe"cial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
