@@ -1,5 +1,7 @@
 ### <h1>Hi there 👋</h1>
 
+<h3>I like applesauce</h3>
+
 <!--
 **catietdcollins/catietdcollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
